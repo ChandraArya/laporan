@@ -1,0 +1,28 @@
+Basic HTML and HTML5: Say Hello to HTML Elements
+
+Selamat datang di tantangan pengkodean HTML freeCodeCamp. 
+Ini akan memandu Anda melalui pengembangan web langkah demi langkah.
+
+Pertama, Anda akan mulai dengan membuat halaman web sederhana menggunakan HTML. 
+Anda dapat mengedit kode di editor kode Anda, yang disematkan ke halaman web ini.
+
+Apakah Anda melihat kode di editor kode Anda yang mengatakan
+
+<h1> Halo </h1>? Itu adalah elemen HTML.
+
+Sebagian besar elemen HTML memiliki tag pembuka dan tag penutup.
+
+Tag pembuka terlihat seperti ini:
+
+<h1>
+
+Tag penutup terlihat seperti ini:
+
+</h1>
+
+Satu-satunya perbedaan antara tag pembuka dan penutup adalah garis miring ke depan setelah tanda kurung buka dari tag penutup.
+
+Setiap tantangan memiliki pengujian yang dapat Anda jalankan kapan saja dengan mengklik tombol "Jalankan pengujian". 
+Saat Anda lulus semua tes, Anda akan diminta untuk mengirimkan solusi Anda dan melanjutkan ke tantangan pengkodean berikutnya.
+
+Untuk lulus ujian pada tantangan ini, ubah teks elemen h1 Anda menjadi "Hello World".
