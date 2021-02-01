@@ -18,12 +18,16 @@ Sebagai contoh:
 
 
 Judul tingkat atas: Mungkin judul halaman
-Sebuah paragraf teks. Beberapa informasi yang ingin kami komunikasikan kepada pengguna. Ini bisa sepanjang atau sesingkat yang kita inginkan.
+Sebuah paragraf teks. Beberapa informasi yang ingin kami komunikasikan kepada pengguna.
+Ini bisa sepanjang atau sesingkat yang kita inginkan.
 
 Nomor satu dalam daftar
 Nomor dua
 Item ketiga
-Bagian HyperText dari HTML berasal dari masa awal web dan kasus penggunaan aslinya. Halaman biasanya berisi dokumen statis yang berisi referensi ke dokumen lain. Referensi ini berisi link hypertext yang digunakan oleh browser untuk menavigasi ke dokumen referensi sehingga pengguna dapat membaca dokumen referensi tanpa harus mencarinya secara manual.
+
+Bagian HyperText dari HTML berasal dari masa awal web dan kasus penggunaan aslinya. 
+Halaman biasanya berisi dokumen statis yang berisi referensi ke dokumen lain. 
+Referensi ini berisi link hypertext yang digunakan oleh browser untuk menavigasi ke dokumen referensi sehingga pengguna dapat membaca dokumen referensi tanpa harus mencarinya secara manual.
 
 Saat halaman web dan aplikasi web menjadi semakin kompleks, Konsorsium W3 memperbarui spesifikasi HTML untuk memastikan bahwa halaman web dapat ditampilkan dengan andal di browser apa pun. Versi terbaru HTML adalah HTML5.
 
